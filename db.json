@@ -1,0 +1,148 @@
+{
+  "commoditys": [
+    {
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "image": "https://i.imgur.com/gKXfY6u.png",
+      "mainPrice": "28,990,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "موبایل",
+      "id": 1
+    },
+    {
+      "name": "Apple iPhone 16 CH Dual SIM",
+      "image": "https://i.imgur.com/gp1kNo9.png",
+      "mainPrice": "90,499,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "موبایل",
+      "id": 2
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra Dual SIM",
+      "image": "https://i.imgur.com/jIk9aUh.png",
+      "mainPrice": "104,700,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "موبایل",
+      "id": 3
+    },
+    {
+      "name": "Honor 200 Dual SIM",
+      "image": "https://i.imgur.com/9mMReWf.png",
+      "mainPrice": "39,999,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "موبایل",
+      "id": 4
+    },
+    {
+      "name": "Samsung Galaxy Tab A9-4G Tablet",
+      "image": "https://i.imgur.com/21vXVws.png",
+      "mainPrice": "9,669,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "تبلت",
+      "id": 5
+    },
+    {
+      "name": "Apple iPad 2022 WIFI",
+      "image": "https://i.imgur.com/NKJ6mx6.png",
+      "mainPrice": "37,990,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "تبلت",
+      "id": 6
+    },
+    {
+      "name": "Xiaomi Redmi Pad SE",
+      "image": "https://i.imgur.com/leQCJiz.png",
+      "mainPrice": "16,190,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "تبلت",
+      "id": 7
+    },
+    {
+      "name": "Blackview Tab 16 4G",
+      "image": "https://i.imgur.com/0MH2zFc.png",
+      "mainPrice": "13,699,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "تبلت",
+      "id": 8
+    },
+    {
+      "name": "Galaxy Watch 7 40mm",
+      "image": "https://i.imgur.com/ZjY2C1F.png",
+      "mainPrice": "17,570,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "ساعت هوشمند",
+      "id": 9
+    },
+    {
+      "name": "Apple Watch SE Aluminum Case 40mm",
+      "image": "https://i.imgur.com/txm3l9g.png",
+      "mainPrice": "20,900,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "ساعت هوشمند",
+      "id": 10
+    },
+    {
+      "name": "Redmi Watch 3 Active",
+      "image": "https://i.imgur.com/Z5qx23r.png",
+      "mainPrice": "4,849,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "ساعت هوشمند",
+      "id": 11
+    },
+    {
+      "name": "Race Titanium",
+      "image": "https://i.imgur.com/wybPlTE.png",
+      "mainPrice": "40,900,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "ساعت هوشمند",
+      "id": 12
+    },
+    {
+      "name": "Adata P20000QCD 20000mAh Power Bank",
+      "image": "https://i.imgur.com/5ifNzpY.png",
+      "mainPrice": "1,720,300",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "لوازم جانبی",
+      "id": 13
+    },
+    {
+      "name": "25W Samsung Wall Charger Adapter T2510",
+      "image": "https://i.imgur.com/CpLGuFg.png",
+      "mainPrice": "699,000",
+      "changePrice": "",
+      "finalPrice": "",
+      "group": "لوازم جانبی",
+      "id": 14
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "موبایل"
+    },
+    {
+      "id": "2",
+      "name": "تبلت"
+    },
+    {
+      "id": "3",
+      "name": "ساعت هوشمند"
+    },
+    {
+      "id": "4",
+      "name": "لوازم جانبی"
+    }
+  ]
+}
