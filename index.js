@@ -32,3 +32,5 @@ app.get("/api/groups", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+const cors = require("cors");
+app.use(cors());
