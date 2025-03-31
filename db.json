@@ -7,6 +7,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "موبایل",
+      "Inventory": "10",
+      "DailyOrders": "2",
+      "Dailyshopping": "0",
       "id": 1
     },
     {
@@ -16,6 +19,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "موبایل",
+      "Inventory": "8",
+      "DailyOrders": "5",
+      "Dailyshopping": "3",
       "id": 2
     },
     {
@@ -25,6 +31,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "موبایل",
+      "Inventory": "5",
+      "DailyOrders": "2",
+      "Dailyshopping": "2",
       "id": 3
     },
     {
@@ -34,6 +43,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "موبایل",
+      "Inventory": "15",
+      "DailyOrders": "5",
+      "Dailyshopping": "4",
       "id": 4
     },
     {
@@ -43,6 +55,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "تبلت",
+      "Inventory": "30",
+      "DailyOrders": "5",
+      "Dailyshopping": "1",
       "id": 5
     },
     {
@@ -52,6 +67,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "تبلت",
+      "Inventory": "20",
+      "DailyOrders": "5",
+      "Dailyshopping": "1",
       "id": 6
     },
     {
@@ -61,6 +79,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "تبلت",
+      "Inventory": "25",
+      "DailyOrders": "10",
+      "Dailyshopping": "5",
       "id": 7
     },
     {
@@ -70,6 +91,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "تبلت",
+      "Inventory": "10",
+      "DailyOrders": "2",
+      "Dailyshopping": "0",
       "id": 8
     },
     {
@@ -79,6 +103,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "ساعت هوشمند",
+      "Inventory": "30",
+      "DailyOrders": "20",
+      "Dailyshopping": "15",
       "id": 9
     },
     {
@@ -88,6 +115,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "ساعت هوشمند",
+      "Inventory": "40",
+      "DailyOrders": "18",
+      "Dailyshopping": "8",
       "id": 10
     },
     {
@@ -97,6 +127,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "ساعت هوشمند",
+      "Inventory": "140",
+      "DailyOrders": "5",
+      "Dailyshopping": "10",
       "id": 11
     },
     {
@@ -106,6 +139,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "ساعت هوشمند",
+      "Inventory": "10",
+      "DailyOrders": "2",
+      "Dailyshopping": "0",
       "id": 12
     },
     {
@@ -115,6 +151,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "لوازم جانبی",
+      "Inventory": "10",
+      "DailyOrders": "2",
+      "Dailyshopping": "7",
       "id": 13
     },
     {
@@ -124,6 +163,9 @@
       "changePrice": "",
       "finalPrice": "",
       "group": "لوازم جانبی",
+      "Inventory": "100",
+      "DailyOrders": "50",
+      "Dailyshopping": "40",
       "id": 14
     }
   ],
