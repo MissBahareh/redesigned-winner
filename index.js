@@ -4,6 +4,9 @@ import fs from "fs/promises"; // استفاده از نسخه promise-based از
 
 const app = express();
 const PORT = process.env.PORT || 3000; // اولویت با PORTی که Render فراهم کرده است
+app.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
+});
 
 // Middleware برای تجزیه درخواست‌های JSON
 app.use(express.json());
