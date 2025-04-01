@@ -41,3 +41,12 @@ app.get("/api/groups", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+app.post("/api/commoditys", (req, res) => {
+  const { id, calculatedPrice } = req.body;
+
+  // اینجا می‌توانید مقدار را در دیتابیس ذخیره کنید (مثلاً MongoDB، MySQL، و غیره)
+  console.log(`Received ID: ${id}, Calculated Price: ${calculatedPrice}`);
+
+  // فرض کنید داده ذخیره شد و پاسخ می‌دهید
+  res.status(200).json({ message: "Price saved successfully!" });
+});
